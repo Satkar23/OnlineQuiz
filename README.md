@@ -16,7 +16,6 @@ Set or modify time limits for quizzes.
 User-friendly admin dashboard for content management.
 
 
-
 Technologies Used
 
 Frontend: HTML, CSS (Bootstrap), JavaScript
@@ -74,11 +73,20 @@ online-quiz-system/
 ├── admin/                # Admin panel files
 └── README.md             # Project documentation
 
-Contributing
-Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
-Contact
+ Contributors
+ 
+- Satkar Shrestha
+- Sandhya Gharti
+  
 For inquiries or support, contact:
+Satkar Shrestha
+  Email: satkarstha81@gmail.com
+  GitHub: Satkar23
+  LinkedIn: [Satkar Shrestha](https://www.linkedin.com/in/satkar-shrestha-113784286/)
 
-Email: satkarstha81@gmail.com
-GitHub: Satkar23
-LinkedIn: Satkar Shrestha
+Sandhya Gharti 
+  Email: sandhyagc1120@gmail.com
+  LinkedIn: https://www.linkedin.com/in/sandhya-gharti-867b75333/
+  
+License
+  © 2025 All rights reserved. ```
